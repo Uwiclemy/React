@@ -6,7 +6,7 @@
   </a>
 </div>
 
-# React!
+# Frontend Frameworks
 
 > check [the wiki](https://github.com/hackyourfuturebelgium/react/wiki) for class materials an supporting resources
 
